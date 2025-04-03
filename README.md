@@ -5,9 +5,9 @@ This project is built using **Nhost** as the backend service with **Hasura** for
 
 ## Working with NHost
 
-- Working with nhost can be quite difficult if you dont know it works and how it provides authentication , its own tables
-- But once you get through it, It will be the database to work with as it provides the best application for you web-app.
-- So i recommend to watch nhost tutorials as much as possible to learn it and use it.
+- Working with nhost can be quite difficult if you dont know it works and how it provides authentication , and how it owns it tables
+- But once you get through it, It will be the best database to work with as it provides the best application for you web-app.
+- So i recommend you to watch nhost tutorials as much as possible to learn it and use it.
 
 ## ✨ Features
 - ✅ **News Fetching**: Retrieves top business news from a public API.
